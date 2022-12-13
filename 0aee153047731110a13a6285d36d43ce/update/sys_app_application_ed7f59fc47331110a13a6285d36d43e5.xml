@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>test1 </description>
+        <device_type>browser</device_type>
+        <hint>test1 </hint>
+        <name/>
+        <order/>
+        <roles>user,x_554810_test1.user role,x_554810_test1.admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-13 16:42:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ed7f59fc47331110a13a6285d36d43e5</sys_id>
+        <sys_name>test1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test1" source="x_554810_test1">0aee153047731110a13a6285d36d43ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test1">0aee153047731110a13a6285d36d43ce</sys_scope>
+        <sys_update_name>sys_app_application_ed7f59fc47331110a13a6285d36d43e5</sys_update_name>
+        <title>test1</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
